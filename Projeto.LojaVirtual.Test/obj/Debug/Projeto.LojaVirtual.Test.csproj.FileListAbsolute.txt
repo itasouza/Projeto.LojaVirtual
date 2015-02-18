@@ -20,3 +20,6 @@ D:\Projeto.LojaVirtual\Projeto.LojaVirtual.Test\obj\Debug\Projeto.LojaVirtual.Te
 D:\Projeto.LojaVirtual\Projeto.LojaVirtual.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\Projeto.LojaVirtual\Projeto.LojaVirtual.Test\bin\Debug\System.Web.Helpers.dll
 D:\Projeto.LojaVirtual\Projeto.LojaVirtual.Test\bin\Debug\System.Web.Helpers.xml
+D:\Repositorio\Projeto.LojaVirtual\Projeto.LojaVirtual.Test\obj\Debug\Projeto.LojaVirtual.Test.csprojResolveAssemblyReference.cache
+D:\Repositorio\Projeto.LojaVirtual\Projeto.LojaVirtual.Test\obj\Debug\Projeto.LojaVirtual.Test.dll
+D:\Repositorio\Projeto.LojaVirtual\Projeto.LojaVirtual.Test\obj\Debug\Projeto.LojaVirtual.Test.pdb
